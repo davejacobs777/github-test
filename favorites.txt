@@ -1,3 +1,6 @@
 lasagne
 steak
 roast chiken
+spiderman
+star wars
+rambo
